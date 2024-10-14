@@ -10824,3 +10824,16 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+
+#bg-header {
+    background-image: url('../img/bg-img.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#bg-header h1{
+	text-shadow: 2px 2px black;
+}
+
